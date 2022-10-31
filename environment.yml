@@ -1,0 +1,7 @@
+name: Mid_bootcamp_project
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
