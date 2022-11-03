@@ -15,6 +15,7 @@ Questions:
 
 
 Conclusion: 
+
 I could conclude from my analysis that netflix provides more movie content compared to TV Series
 Also, the maximum amount of content was released in USA followed by India and others.
 Another interesting finding was that the maximum amount of genre available in movies was DRAMA and in Tv Series was International TV Series. 
